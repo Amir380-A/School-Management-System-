@@ -1,0 +1,418 @@
+# depslib dependency file v1.0
+1623496105 source:d:\nu\semster4\cs217\exams_217\final\main.cpp
+	<iostream>
+	"CenterClass.cpp"
+
+1623473511 d:\nu\semster4\cs217\exams_217\final\datetime.cpp
+	"dateTime.h"
+	<iostream>
+
+1623495406 d:\nu\semster4\cs217\exams_217\final\datetime.h
+	<iostream>
+
+1623473511 source:d:\nu\semster4\cs217\exams_217\final\datetime.cpp
+	"dateTime.h"
+	<iostream>
+
+1623492842 source:d:\nu\semster4\cs217\exams_217\final\assignment.cpp
+	<string>
+	<iostream>
+	"assignment.h"
+
+1623492940 d:\nu\semster4\cs217\exams_217\final\assignment.h
+	"curriculum.h"
+	<string>
+	<iostream>
+
+1623483653 source:d:\nu\semster4\cs217\exams_217\final\courses.cpp
+	"courses.h"
+	<string>
+	<iostream>
+
+1623476581 source:d:\nu\semster4\cs217\exams_217\final\staff.cpp
+	<string>
+	<iostream>
+	"staff.h"
+
+1623476391 d:\nu\semster4\cs217\exams_217\final\staff.h
+	<string>
+	<iostream>
+
+1623490108 source:d:\nu\semster4\cs217\exams_217\final\teacher.cpp
+	"teacher.h"
+	<vector>
+	<string>
+	<iostream>
+
+1623495264 d:\nu\semster4\cs217\exams_217\final\teacher.h
+	"human.h"
+	<vector>
+	<string>
+	<iostream>
+
+1623508986 d:\nu\semster4\cs217\exams_217\final\courses.h
+	<string>
+	<iostream>
+	<vector>
+
+1623479934 source:d:\nu\semster4\cs217\exams_217\final\lectrue.cpp
+	"lectrue.h"
+	<string>
+	<iostream>
+
+1623495793 d:\nu\semster4\cs217\exams_217\final\lectrue.h
+	"curriculum.h"
+	<string>
+	<iostream>
+
+1623492842 d:\nu\semster4\cs217\exams_217\final\assignment.cpp
+	<string>
+	<iostream>
+	"assignment.h"
+
+1623476581 d:\nu\semster4\cs217\exams_217\final\staff.cpp
+	<string>
+	<iostream>
+	"staff.h"
+
+1623490108 d:\nu\semster4\cs217\exams_217\final\teacher.cpp
+	"teacher.h"
+	<vector>
+	<string>
+	<iostream>
+
+1623479934 d:\nu\semster4\cs217\exams_217\final\lectrue.cpp
+	"lectrue.h"
+	<string>
+	<iostream>
+
+1623490486 d:\nu\semster4\cs217\exams_217\final\manager.cpp
+	"manager.h"
+	<string>
+	<iostream>
+
+1623490958 d:\nu\semster4\cs217\exams_217\final\manager.h
+	"human.h"
+	<string>
+	<iostream>
+
+1623490486 source:d:\nu\semster4\cs217\exams_217\final\manager.cpp
+	"manager.h"
+	<string>
+	<iostream>
+
+1623489290 source:d:\nu\semster4\cs217\exams_217\final\student.cpp
+	"student.h"
+	<string>
+	<iostream>
+
+1623495270 d:\nu\semster4\cs217\exams_217\final\student.h
+	"human.h"
+	<string>
+	<iostream>
+	<vector>
+
+1623489290 d:\nu\semster4\cs217\exams_217\final\student.cpp
+	"student.h"
+	<string>
+	<iostream>
+
+1623488700 d:\nu\semster4\cs217\exams_217\final\parent.cpp
+	"parent.h"
+	<string>
+	<iostream>
+
+1623490838 d:\nu\semster4\cs217\exams_217\final\parent.h
+	"human.h"
+	<string>
+	<vector>
+	<iostream>
+
+1623483653 d:\nu\semster4\cs217\exams_217\final\courses.cpp
+	"courses.h"
+	<string>
+	<iostream>
+
+1623488700 source:d:\nu\semster4\cs217\exams_217\final\parent.cpp
+	"parent.h"
+	<string>
+	<iostream>
+
+1623484548 source:d:\nu\semster4\cs217\exams_217\final\customer.cpp
+	"customer.h"
+	<string>
+	<iostream>
+
+1623484507 d:\nu\semster4\cs217\exams_217\final\customer.h
+	<string>
+	<iostream>
+
+1623485467 source:d:\nu\semster4\cs217\exams_217\final\human.cpp
+	"human.h"
+	<string>
+	<iostream>
+
+1623492638 d:\nu\semster4\cs217\exams_217\final\human.h
+	<string>
+	<iostream>
+
+1623484548 d:\nu\semster4\cs217\exams_217\final\customer.cpp
+	"customer.h"
+	<string>
+	<iostream>
+
+1623485467 d:\nu\semster4\cs217\exams_217\final\human.cpp
+	"human.h"
+	<string>
+	<iostream>
+
+1623492870 d:\nu\semster4\cs217\exams_217\final\curriculum.h
+	<string>
+	<iostream>
+
+1623496033 source:d:\nu\semster4\cs217\exams_217\final\centerclass.cpp
+	"CenterClass.h"
+	<string>
+	<iostream>
+
+1623496033 d:\nu\semster4\cs217\exams_217\final\centerclass.h
+	<string>
+	<iostream>
+	"dateTime.cpp"
+	"assignment.cpp"
+	"teacher.cpp"
+	"lectrue.cpp"
+	"manager.cpp"
+	"student.cpp"
+	"parent.cpp"
+	"courses.cpp"
+
+1623496033 d:\nu\semster4\cs217\exams_217\final\centerclass.cpp
+	"CenterClass.h"
+	<string>
+	<iostream>
+
+1624058380 source:c:\users\dell\dropbox\dropbox transfer files\final\final\assignment.cpp
+	<string>
+	<fstream>
+	<iostream>
+	<sstream>
+	"assignment.h"
+
+1624038513 c:\users\dell\dropbox\dropbox transfer files\final\final\assignment.h
+	"Q_A.cpp"
+	<string>
+	<iostream>
+
+1624026442 c:\users\dell\dropbox\dropbox transfer files\final\final\curriculum.h
+	<string>
+	<iostream>
+
+1624057807 source:c:\users\dell\dropbox\dropbox transfer files\final\final\centerclass.cpp
+	"CenterClass.h"
+	<string>
+	<iostream>
+
+1624057425 c:\users\dell\dropbox\dropbox transfer files\final\final\centerclass.h
+	<string>
+	<iostream>
+	"dateTime.cpp"
+	"assignment.cpp"
+	"teacher.cpp"
+	"lectrue.cpp"
+	"manager.cpp"
+	"student.cpp"
+	"parent.cpp"
+	"courses.cpp"
+	"Quiz.cpp"
+
+1624051622 c:\users\dell\dropbox\dropbox transfer files\final\final\datetime.cpp
+	"dateTime.h"
+	<iostream>
+
+1624051604 c:\users\dell\dropbox\dropbox transfer files\final\final\datetime.h
+	<iostream>
+
+1624058380 c:\users\dell\dropbox\dropbox transfer files\final\final\assignment.cpp
+	<string>
+	<fstream>
+	<iostream>
+	<sstream>
+	"assignment.h"
+
+1624053909 c:\users\dell\dropbox\dropbox transfer files\final\final\teacher.cpp
+	"teacher.h"
+	<vector>
+	<string>
+	<iostream>
+
+1624032283 c:\users\dell\dropbox\dropbox transfer files\final\final\teacher.h
+	"human.h"
+	"Quiz.cpp"
+	"lectrue.cpp"
+	"assignment.cpp"
+	<vector>
+	<string>
+	<iostream>
+
+1624033963 c:\users\dell\dropbox\dropbox transfer files\final\final\human.h
+	<string>
+	<iostream>
+
+1624006079 c:\users\dell\dropbox\dropbox transfer files\final\final\lectrue.cpp
+	"lectrue.h"
+	<string>
+	<iostream>
+
+1624007569 c:\users\dell\dropbox\dropbox transfer files\final\final\lectrue.h
+	"curriculum.cpp"
+	<string>
+	<iostream>
+
+1624033746 c:\users\dell\dropbox\dropbox transfer files\final\final\manager.cpp
+	"manager.h"
+	<string>
+	<iostream>
+
+1624060725 c:\users\dell\dropbox\dropbox transfer files\final\final\manager.h
+	"human.h"
+	"courses.h"
+	"teacher.h"
+	"student.h"
+	"parent.h"
+	<string>
+	<iostream>
+
+1624038344 c:\users\dell\dropbox\dropbox transfer files\final\final\student.cpp
+	"student.h"
+	<string>
+	<iostream>
+
+1624038226 c:\users\dell\dropbox\dropbox transfer files\final\final\student.h
+	"human.h"
+	"Quiz.h"
+	"assignment.h"
+	<string>
+	<iostream>
+	<vector>
+
+1624058193 c:\users\dell\dropbox\dropbox transfer files\final\final\parent.cpp
+	"parent.h"
+	<string>
+	<iostream>
+
+1624033939 c:\users\dell\dropbox\dropbox transfer files\final\final\parent.h
+	"human.h"
+	"student.h"
+	<string>
+	<vector>
+	<iostream>
+
+1624033649 c:\users\dell\dropbox\dropbox transfer files\final\final\courses.cpp
+	"courses.h"
+	<string>
+	<iostream>
+
+1624059525 c:\users\dell\dropbox\dropbox transfer files\final\final\courses.h
+	<string>
+	<iostream>
+	<vector>
+
+1624059525 source:c:\users\dell\dropbox\dropbox transfer files\final\final\courses.cpp
+	"courses.h"
+	<string>
+	<iostream>
+
+1624051622 source:c:\users\dell\dropbox\dropbox transfer files\final\final\datetime.cpp
+	"dateTime.h"
+	<iostream>
+
+1624006079 source:c:\users\dell\dropbox\dropbox transfer files\final\final\lectrue.cpp
+	"lectrue.h"
+	<string>
+	<iostream>
+
+1624060665 source:c:\users\dell\dropbox\dropbox transfer files\final\final\manager.cpp
+	"manager.h"
+	<string>
+	<iostream>
+
+1624060065 source:c:\users\dell\dropbox\dropbox transfer files\final\final\parent.cpp
+	"parent.h"
+	<string>
+	<iostream>
+
+1624038344 source:c:\users\dell\dropbox\dropbox transfer files\final\final\student.cpp
+	"student.h"
+	<string>
+	<iostream>
+
+1624053909 source:c:\users\dell\dropbox\dropbox transfer files\final\final\teacher.cpp
+	"teacher.h"
+	<vector>
+	<string>
+	<iostream>
+
+1623894635 c:\users\dell\dropbox\dropbox transfer files\final\final\questionandanswer.h
+	<list>
+	<string>
+
+1624058701 source:c:\users\dell\dropbox\dropbox transfer files\final\final\main.cpp
+	<iostream>
+	"CenterClass.cpp"
+
+1624057807 c:\users\dell\dropbox\dropbox transfer files\final\final\centerclass.cpp
+	"CenterClass.h"
+	<string>
+	<iostream>
+
+1624058380 source:c:\users\dell\dropbox\dropbox transfer files\final\final\quiz.cpp
+	<string>
+	<ctime>
+	<fstream>
+	<iostream>
+	<sstream>
+	"Quiz.h"
+
+1624058380 c:\users\dell\dropbox\dropbox transfer files\final\final\quiz.cpp
+	<string>
+	<ctime>
+	<fstream>
+	<iostream>
+	<sstream>
+	"Quiz.h"
+
+1624037908 c:\users\dell\dropbox\dropbox transfer files\final\final\quiz.h
+	"Q_A.cpp"
+	<string>
+	<iostream>
+
+1624053824 c:\users\dell\dropbox\dropbox transfer files\final\final\q_a.h
+	<string>
+	<iostream>
+	"curriculum.cpp"
+
+1624054004 source:c:\users\dell\dropbox\dropbox transfer files\final\final\q_a.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Q_A.h"
+
+1624054004 c:\users\dell\dropbox\dropbox transfer files\final\final\q_a.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Q_A.h"
+
+1624049376 source:c:\users\dell\dropbox\dropbox transfer files\final\final\curriculum.cpp
+	"curriculum.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1624049376 c:\users\dell\dropbox\dropbox transfer files\final\final\curriculum.cpp
+	"curriculum.h"
+	<string>
+	<fstream>
+	<iostream>
+
